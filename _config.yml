@@ -1,0 +1,28 @@
+name: Baltic Cruise 2016
+favicon: null
+layout_spectrum: 0.27953555923886597
+typography_spectrum: 0.9378785451408476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8046825407072902
+  lightness: 0.4985211135353893
+  saturation: 0.5351362063083798
+  rhythmicContrast: 0.4541043273638934
+purpose: []
