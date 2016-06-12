@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Baltic Cruise 2016]]></title>
         <description><![CDATA[Baltic Cruise 2016]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/baltic-cruise-2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 16:27:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 12 Jun 2016 08:59:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/baltic-cruise-2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4403813-bb5a-405e-b342-cdb42955bcaa.jpg">]]></description>
-            <link>undefinedgreat-pictures-from-our-baltic-cruise/index.html</link>
+            <link>https://thegrid.ai/baltic-cruise-2016/great-pictures-from-our-baltic-cruise/index.html</link>
             <guid isPermaLink="false">073bbf3e-76af-4dd4-a613-150699a7229f</guid>
-            <pubDate>Sat, 11 Jun 2016 16:27:46 GMT</pubDate>
+            <pubDate>Sun, 12 Jun 2016 08:59:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
